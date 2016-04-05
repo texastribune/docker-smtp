@@ -1,0 +1,2 @@
+- could maybe use supervisor-stdout to get postfix logs?
+- logs don't all go to stdout as I'd like
